@@ -1,0 +1,32 @@
+* Author: Ajay Kant
+	- Date Created: 4 Feb 2016
+
+* Environment
+	- OS: Windows, Ubuntu.
+	- Browser: IE, Firefox, Google Chrome
+	- Bandwidth: 500 kbps
+	- Hardware Configuration: 500 MB RAM
+	- Processor: P4 or newer versions
+
+* Objective
+	- To provide the theory and block diagrams.
+
+* Pre condition
+	1. Open the url vlabs.ac.in and vlabs home page will be displayed
+	2. Click on Dayalbagh Educational Institute logo and a list of labs will be displayed on the screen
+	3. Select Virtual Power Laboratory, it will redirect to the home page.
+	4. Click on the experiments link where a list of experiments will be displayed on the screen
+	5. Select “To study the Synchronization of alternator with infinite bus bar” experiment.
+	6. Click on "theory" link from left side menu bar.
+
+* Post condition
+	- Nil
+
+* Test Step
+	1. Navigation
+	2. Look and Feel
+
+* Expected result
+	- Providing information about the experiment
+
+* Review/comments
